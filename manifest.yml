@@ -1,0 +1,5 @@
+---
+applications:
+- name: graphql-demo 
+  memory: 512M
+  path: ./target/graphql-demo-0.0.1-SNAPSHOT.jar
